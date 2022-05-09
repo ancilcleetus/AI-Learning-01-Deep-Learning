@@ -13,7 +13,7 @@ The book's github page (https://github.com/d2l-ai/d2l-en) comes with notebooks f
 This project is an effort to personalize this material by creating new notebooks from scratch for PyTorch and TensorFlow that are relevant for my learning journey.
 
 #### Chapter 01. Introduction
-#### Chapter 02. Preliminaries (/d2l-ancil/pytorch/ch02-preliminaries/ch02-preliminaries.ipynb) (/d2l-ancil/tensorflow/ch02-preliminaries/ch02-preliminaries.ipynb)
+#### Chapter 02. Preliminaries [PyTorch](/d2l-ancil/pytorch/ch02-preliminaries/ch02-preliminaries.ipynb) [TensorFlow](/d2l-ancil/tensorflow/ch02-preliminaries/ch02-preliminaries.ipynb)
 
 ### [Course 02: Deep Learning by Yann LeCun](/deep-learning-nyu-yann-lecun-2020)
 

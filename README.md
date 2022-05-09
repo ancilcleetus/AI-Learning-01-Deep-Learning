@@ -1,4 +1,12 @@
-# Dive into Deep Learning
+# Deep Learning Foundations
+
+This repo is an effort to document different Deep Learning Courses that I'm going through.
+
+## Contents
+
+### [Course 01: Dive into Deep Learning](/d2l-ancil)
+
+### Dive into Deep Learning
 
 "Dive into Deep Learning" (https://d2l.ai/) is an interactive Deep Learning book with code examples in MXNet, PyTorch and TensorFlow.
 
@@ -6,5 +14,12 @@ The book's github page (https://github.com/d2l-ai/d2l-en) comes with notebooks f
 
 This project is an effort to personalize this material by creating new notebooks from scratch for PyTorch and TensorFlow that are relevant for my learning journey.
 
-## Chapter 01. Introduction
+#### Chapter 01. Introduction
 
+### [Course 02: Deep Learning by Yann LeCun](/deep-learning-nyu-yann-lecun-2020)
+
+### Deep Learning by Yann LeCun
+
+"Deep Learning by Yann LeCun" (https://cds.nyu.edu/deep-learning/) is offered at CDS (Center for Data Science), NYU (New York University).
+
+#### Lecture 01. Introduction

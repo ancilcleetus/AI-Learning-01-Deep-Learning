@@ -19,4 +19,4 @@ This project is an effort to personalize this material by creating new notebooks
 
 "Deep Learning by Yann LeCun" (https://cds.nyu.edu/deep-learning/) is offered at CDS (Center for Data Science), NYU (New York University).
 
-#### [Week 01 Lecture 01: History, Motivation, and Evolution of Deep Learning](/deep-learning-nyu-yann-lecun-2020/Week-01/Lectures/Week-01-Lecture-01.ipynb)
+#### [Week 01 Lecture 01: History, Motivation, and Evolution of Deep Learning](/deep-learning-nyu-yann-lecun-2020/Week-01-Lecture-01.ipynb)
